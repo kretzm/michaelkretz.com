@@ -1,4 +1,5 @@
 # michaelkretz.com
+Personal website for michaelkretz.com
 
 > A Vue.js project
 
